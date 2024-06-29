@@ -5,7 +5,7 @@ Please follow below command to run the app in docker
 
 1. docker build . -t lala/streamlitbuild
 2. docker image ls
-3.  run -p 8501:8501 <IMAGE ID>
+3. docker run -p 8501:8501 <IMAGE ID>
 
 
 ## RAG Architecture
